@@ -1,0 +1,26 @@
+{
+  "name": "purple-civet",
+  "version": "0.1.0",
+  "description": "An nw.js based engine for visual novels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jay-depot/purple-civet.git"
+  },
+  "keywords": [
+    "visual novel",
+    "visual",
+    "novel",
+    "game",
+    "nw.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jay-depot/purple-civet/issues"
+  },
+  "homepage": "https://github.com/jay-depot/purple-civet"
+}
