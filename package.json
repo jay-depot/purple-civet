@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jay-depot/purple-civet/issues"
   },
-  "homepage": "https://github.com/jay-depot/purple-civet"
+  "homepage": "https://github.com/jay-depot/purple-civet",
+  "dependencies": {
+    "nw": "^0.12.0"
+  }
 }
