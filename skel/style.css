@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  margin-top: -1em;
+  z-index: 100;
+  text-align: center;
+  width: 100%;
+}
+
+#background {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: purple;
+  z-index: 1;
+}
+
+#sprite-field {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: purple;
+  z-index: 2;
+}
+
+#log-wrap {
+  padding: .5em;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 3;
+  height: 25%;
+  width: 100%;
+}
+
+#log {
+  padding: .5em;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
+}
