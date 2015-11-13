@@ -17,23 +17,28 @@ body {
 .title {
   position: absolute;
   top: 50%;
-  margin-top: -1em;
+  margin-top: -2em;
   z-index: 100;
   text-align: center;
   width: 100%;
 }
 
-#background {
+.background-wrap {
   height: 100%;
   width: 100%;
   position: absolute;
   top: 0;
   left: 0;
-  background: purple;
   z-index: 1;
 }
 
-#sprite-field {
+.background{
+  height: 100%;
+  width: 100%;
+  background: purple;
+}
+
+.sprite-field {
   height: 100%;
   width: 100%;
   position: absolute;
@@ -43,7 +48,7 @@ body {
   z-index: 2;
 }
 
-#log-wrap {
+.log-wrap {
   padding: .5em;
   position: absolute;
   bottom: 0;
@@ -53,7 +58,7 @@ body {
   width: 100%;
 }
 
-#log {
+.log {
   padding: .5em;
   border: 1px solid #ffffff;
   color: #ffffff;
