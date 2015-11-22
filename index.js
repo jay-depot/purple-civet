@@ -7,3 +7,6 @@ module.exports.ReactiveDictionary = require('./lib/reactive_dictionary');
 module.exports.state = require('./lib/game').state;
 module.exports.graph = require('./lib/story_graph');
 module.exports.loadNodes  = require('./lib/data').loadNodes;
+
+//Event handlers
+require('./lib/keyboard_shortcuts');
