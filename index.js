@@ -10,3 +10,4 @@ module.exports.loadNodes  = require('./lib/data').loadNodes;
 
 //Event handlers
 require('./lib/keyboard_shortcuts');
+require('./lib/sprites');
