@@ -28,8 +28,17 @@ Contributions, no matter how small, are ALWAYS welcome ;-)
  - History and backtracking
 
 ## Roadmap:
+### 1.0
  - Savegame support
+
+### 1.1
  - Character definitions, including mood-indexed sprites
  - Dialog nodes
+
+### 1.2
  - State registers, and the ability to trigger node traversals based on their values
+
+### 1.3
  - Background music
+ - Sound effects
+
