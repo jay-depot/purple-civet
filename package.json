@@ -1,7 +1,7 @@
 {
   "name": "purple-civet",
   "version": "0.2.0",
-  "description": "An nw.js based engine for visual novels",
+  "description": "An nw.js based engine for visual novels. Desktop apps!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
