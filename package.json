@@ -1,6 +1,6 @@
 {
   "name": "purple-civet",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "An nw.js based engine for visual novels. Desktop apps!",
   "main": "index.js",
   "scripts": {
