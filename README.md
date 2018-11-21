@@ -1,4 +1,6 @@
 # purple-civet
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjay-depot%2Fpurple-civet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjay-depot%2Fpurple-civet?ref=badge_shield)
+
 Javascript framework for visual novel desktop apps, built on [NW.js](https://github.com/nwjs/nw.js).
 
 Generally, you'd use this to build a cross-platform desktop app.
@@ -42,3 +44,7 @@ Contributions, no matter how small, are ALWAYS welcome ;-)
  - Background music
  - Sound effects
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjay-depot%2Fpurple-civet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjay-depot%2Fpurple-civet?ref=badge_large)
